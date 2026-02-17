@@ -19,4 +19,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0146-lru-cache) |
+## Array
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
