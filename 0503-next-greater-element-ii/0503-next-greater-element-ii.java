@@ -1,25 +1,18 @@
 class Solution {
     public int[] nextGreaterElements(int[] nums) {
-        Stack<Integer>stk=new Stack<>();
-        Map<Integer,Integer>map=new HashMap<>();
         int len=nums.length;
         int[]arr=new int[len];
-        for(int i=0;i<len;i++){
-            while(!stk.isEmpty() && nums[stk.peek()]<nums[i]){
-                map.put(stk.pop(),nums[i]);
+        Stack<Integer>stk=new Stack<>();
+        for(int i=2*len-1;i>=0;i--){
+            int ind=i%len;
+            System.out.println(ind);
+            while(!stk.isEmpty() && stk.peek()<=nums[ind]){
+                stk.pop();
             }
-            stk.push(i);
-        }
-        for(int i=0;i<len;i++){
-            while(nums[stk.peek()]<nums[i]){
-                map.put(stk.pop(),nums[i]);
+            if(i<len){
+                arr[i]=(stk.isEmpty())?-1:stk.peek();
             }
-        }
-        while(!stk.isEmpty()){
-            map.put(stk.pop(),-1);
-        }
-        for(int i=0;i<len;i++){
-            arr[i]=map.get(i);
+            stk.push(nums[ind]);
         }
         return arr;
     }
