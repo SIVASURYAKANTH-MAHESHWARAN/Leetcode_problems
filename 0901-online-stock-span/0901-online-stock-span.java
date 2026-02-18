@@ -15,7 +15,6 @@ class StockSpanner {
     public int next(int price) {
         int cnt=0;
         while(!stk.isEmpty() && stk.peek().val<=price){
-            // cnt++;
             pair p=stk.pop();
             cnt+=p.cnt;
         }
