@@ -15,10 +15,6 @@ class Solution {
             stk.push(i);
             
         }
-        for(int i=0;i<len;i++){
-            System.out.print(arr[i]+" ");
-        }
-        System.out.println();
         return max;
     }
     public int maximalRectangle(char[][] mat) {
@@ -44,7 +40,7 @@ class Solution {
         int max=0;
         for(int i=0;i<row;i++){
             int res=func(arr[i]);
-            // System.out.println(res+" "+i);
+            
             max=Math.max(max,res);
         }
         return max;
