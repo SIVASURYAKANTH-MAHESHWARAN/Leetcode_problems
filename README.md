@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0146-lru-cache) |
 | [0901-online-stock-span](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0933-number-of-recent-calls) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0933-number-of-recent-calls) |
 ## Simulation
 |  |
 | ------- |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0085-maximal-rectangle) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
