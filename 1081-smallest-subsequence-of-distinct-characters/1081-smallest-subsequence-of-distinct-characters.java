@@ -18,10 +18,10 @@ class Solution {
             stk.push(s.charAt(i));
             vis[s.charAt(i)-'a']=false;
         }
-        String str=new String();
+        StringBuilder sb=new StringBuilder();
         for(char ch:stk){
-            str+=ch;
+            sb.append(ch);
         }
-        return str;
+        return sb.toString();
     }
 }
