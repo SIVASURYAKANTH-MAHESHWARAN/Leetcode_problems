@@ -1,28 +1,27 @@
 class Solution {
     public String removeDuplicateLetters(String s) {
-        int[]arr=new int[300];
-        int len=s.length();
+        int[]arr=new int[26];
         Stack<Character>stk=new Stack<>();
+        int len=s.length();
         for(int i=0;i<len;i++){
-            arr[s.charAt(i)]=i;
+            arr[s.charAt(i)-'a']=i;
         }
-        boolean[]vis=new boolean[300];
+        boolean[]vis=new boolean[26];
         Arrays.fill(vis,true);
         for(int i=0;i<len;i++){
-            while(!stk.isEmpty() && stk.peek()>s.charAt(i) && arr[stk.peek()]>i && vis[s.charAt(i)]==true){
-                vis[stk.peek()]=true;
-                stk.pop();
+            if(vis[s.charAt(i)-'a']==false){
+                continue;
             }
-            if(vis[s.charAt(i)]){
-                 stk.push(s.charAt(i));
+            while(!stk.isEmpty() && stk.peek()>s.charAt(i) && arr[stk.peek()-'a']>i){
+                vis[stk.pop()-'a']=true;
             }
-            vis[s.charAt(i)]=false;
+            stk.push(s.charAt(i));
+            vis[s.charAt(i)-'a']=false;
         }
-        String str=new String();
-        while(!stk.isEmpty()){
-            str+=stk.pop();
+        StringBuilder sb=new StringBuilder();
+        for(char ch:stk){
+            sb.append(ch);
         }
-        StringBuilder sb=new StringBuilder(str);
-        return sb.reverse().toString();
+        return sb.toString();
     }
 }
