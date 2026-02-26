@@ -12,7 +12,6 @@ class Solution {
             }
             deck.offerLast(i);
             if(i>=k-1){
-                // System.out.println((i-k)+1);
                 arr[(i-k)+1]=nums[deck.peekFirst()];
             }
         }
