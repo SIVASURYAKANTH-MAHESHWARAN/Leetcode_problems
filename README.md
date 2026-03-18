@@ -135,4 +135,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0853-car-fleet) |
+## Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
