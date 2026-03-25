@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 ## Linked List
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0316-remove-duplicate-letters](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0316-remove-duplicate-letters) |
 | [0649-dota2-senate](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0649-dota2-senate) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
