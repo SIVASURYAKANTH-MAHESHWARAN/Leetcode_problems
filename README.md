@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0239-sliding-window-maximum](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0239-sliding-window-maximum) |
+| [0322-coin-change](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0322-coin-change) |
 | [0456-132-pattern](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0503-next-greater-element-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0085-maximal-rectangle) |
+| [0322-coin-change](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0322-coin-change) |
 ## Matrix
 |  |
 | ------- |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0046-permutations) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
