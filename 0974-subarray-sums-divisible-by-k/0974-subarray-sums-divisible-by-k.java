@@ -9,14 +9,11 @@ class Solution {
         sum+=nums[i];
         int rem=(sum%k+k)%k;
         if(map.containsKey(rem)){
-             System.out.println(i);
+            
             cnt+=map.get(rem);
         }
         map.put(rem,map.getOrDefault(rem,0)+1);
-     }
-
-        // System.out.print(-1 % 5);
-    
+     }    
      return cnt;   
     }
 
