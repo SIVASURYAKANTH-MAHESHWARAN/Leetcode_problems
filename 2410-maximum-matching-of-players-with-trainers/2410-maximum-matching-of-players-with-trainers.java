@@ -5,7 +5,6 @@ class Solution {
         int ind1=0,len1=players.length;
         int ind2=0,len2=trainers.length;
         int cnt=0;
-        // if()
         while(ind1<len1 && ind2<len2){
             if(players[ind1]<=trainers[ind2]){
                 cnt++;
