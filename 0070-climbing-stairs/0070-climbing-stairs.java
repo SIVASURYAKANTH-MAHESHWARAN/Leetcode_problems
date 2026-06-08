@@ -1,16 +1,15 @@
 class Solution {
-    public int func(int num,int[]dp){
-        if(num<=1){
-            return 1;
-        }
-        if(dp[num]!=-1){
-            return dp[num];
-        }
-        return dp[num]=func(num-1,dp)+func(num-2,dp);
-    }
+
     public int climbStairs(int n) {
-        int[]dp=new int[n+1];
-        Arrays.fill(dp,-1);
-        return func(n,dp);
+        if(n==1){
+            return n;
+        }
+        int[]dp=new int[n];
+        dp[0]=1;
+        dp[1]=2;
+        for(int i=2;i<n;i++){
+            dp[i]=dp[i-1]+dp[i-2];
+        }
+        return dp[n-1];
     }
 }
