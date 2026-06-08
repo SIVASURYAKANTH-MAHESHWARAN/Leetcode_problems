@@ -1,17 +1,12 @@
 class Solution {
-    public int recurr(int[]cost,int ind,int[]dp){
-        if(ind>=cost.length){
-            return 0;
-        }
-        if(dp[ind]!=-1){
-            return dp[ind];
-        }
-        return dp[ind]=Math.min(cost[ind]+recurr(cost,ind+1,dp),cost[ind]+recurr(cost,ind+2,dp));
-    }
     public int minCostClimbingStairs(int[] cost) {
         int len=cost.length;
-        int[]dp=new int[len];
-        Arrays.fill(dp,-1);
-        return Math.min(recurr(cost,0,dp),recurr(cost,1,dp));
+        int[]dp=new int[len+1];
+        dp[0]=0;
+        dp[1]=0;
+        for(int i=2;i<=len;i++){
+            dp[i]=Math.min(cost[i-1]+dp[i-1],cost[i-2]+dp[i-2]);
+        }
+        return dp[len];
     }
 }
