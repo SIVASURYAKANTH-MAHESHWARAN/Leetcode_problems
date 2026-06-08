@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0853-car-fleet) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1029-two-city-scheduling](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1029-two-city-scheduling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-matrix-diagonal-sum](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1572-matrix-diagonal-sum) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0316-remove-duplicate-letters) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0649-dota2-senate](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0649-dota2-senate) |
+| [1029-two-city-scheduling](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1029-two-city-scheduling) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0853-car-fleet](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0853-car-fleet) |
+| [1029-two-city-scheduling](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1029-two-city-scheduling) |
 | [2418-sort-the-people](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2418-sort-the-people) |
 ## Tree
 |  |
