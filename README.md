@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [1572-matrix-diagonal-sum](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1572-matrix-diagonal-sum) |
 ## Queue
