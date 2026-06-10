@@ -1,21 +1,27 @@
 class Solution {
+    public int recurr(int[][]grid,int r,int c,int rlen,int clen,int[][]dp){
+        if(rlen-1==r && clen-1==c){
+            return grid[r][c];
+        }
+        if(r>=rlen || c>=clen){
+            return Integer.MAX_VALUE;
+        }
+        if(dp[r][c]!=-1){
+            return dp[r][c];
+        }
+        int r1=recurr(grid,r,c+1,rlen,clen,dp);
+        int d1=recurr(grid,r+1,c,rlen,clen,dp);
+        return dp[r][c]=grid[r][c]+Math.min(r1,d1);
+    }
     public int minPathSum(int[][] grid) {
         int rlen=grid.length;
         int clen=grid[0].length;
         int[][]dp=new int[rlen][clen];
-        dp[0][0]=grid[0][0];
-        for(int i=1;i<clen;i++){
-            dp[0][i]=dp[0][i-1]+grid[0][i];
-        }
-        for(int i=1;i<rlen;i++){
-            dp[i][0]=dp[i-1][0]+grid[i][0];
-        }
-
-        for(int i=1;i<rlen;i++){
-            for(int j=1;j<clen;j++){
-                dp[i][j]=Math.min(dp[i-1][j],dp[i][j-1])+grid[i][j];
+        for(int i=0;i<rlen;i++){
+            for(int j=0;j<clen;j++){
+                dp[i][j]=-1;
             }
         }
-        return dp[rlen-1][clen-1];
+        return recurr(grid,0,0,rlen,clen,dp);
     }
 }
