@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0322-coin-change) |
+| [0841-keys-and-rooms](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0841-keys-and-rooms) |
 ## Two Pointers
 |  |
 | ------- |
@@ -285,4 +286,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0062-unique-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0841-keys-and-rooms) |
+## Graph Theory
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
