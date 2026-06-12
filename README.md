@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0053-maximum-subarray) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0316-remove-duplicate-letters) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0455-assign-cookies) |
