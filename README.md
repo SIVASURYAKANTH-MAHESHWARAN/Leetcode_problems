@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0649-dota2-senate) |
 | [0763-partition-labels](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0763-partition-labels) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [2418-sort-the-people](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2418-sort-the-people) |
 | [3174-clear-digits](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/3174-clear-digits) |
