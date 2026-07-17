@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
