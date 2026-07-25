@@ -93,21 +93,21 @@ class Solution {
             int r=arr[0];
             int c=arr[1];
             grid[r][c]=2;
-            // vis[r][c]=true;
+       
           
                 if(c+1<grid[0].length && grid[r][c+1]==1 && !vis[r][c+1]){
-                 System.out.println(r+" "+(c+1));
+             
                 que.add(new int[]{r,c+1});
                 vis[r][c+1]=true;
             }
             if(r+1<grid.length && grid[r+1][c]==1 && !vis[r+1][c]){
-                System.out.println(r+1+" "+c+" ");
+               
                 que.add(new int[]{r+1,c});
                 vis[r+1][c]=true;
             }
 
             if(c-1>=0 && grid[r][c-1]==1 && !vis[r][c-1]){
-                System.out.println(r+1+" "+(c-1)+" ");
+            
                 que.add(new int[]{r,c-1});
                 vis[r][c-1]=true;
             }
@@ -120,7 +120,7 @@ class Solution {
             cnt++;
 
         }
-        System.out.println(grid[grid.length-1][grid[0].length-1]);
+       
         for(int i=0;i<grid.length;i++){
             for(int j=0;j<grid[0].length;j++){
                 if(grid[i][j]==1){
