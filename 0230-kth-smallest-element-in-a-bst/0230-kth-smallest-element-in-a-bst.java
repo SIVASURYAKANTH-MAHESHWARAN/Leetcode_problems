@@ -29,14 +29,14 @@ class Solution {
             return -1;
         }
         int left=recurr(root.left,k);
-        System.out.println(root.val);
+        // System.out.println(root.val);
               if(cnt==k){
             res=root.val;
         }
         cnt++;
          
         int right=recurr(root.right,k);
-        System.out.println(root.val);
+        // System.out.println(root.val);
        if(right!=-1){
         if(cnt==k){
             res=root.val;
