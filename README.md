@@ -245,16 +245,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
