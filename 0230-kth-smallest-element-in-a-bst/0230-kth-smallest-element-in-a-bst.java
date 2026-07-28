@@ -16,46 +16,18 @@
 class Solution {
     int cnt=1;
     int res=0;
-    public int recurr(TreeNode root,int k){
-        //         if(root.left==null && root.right==null){
-        //     if(cnt==k){
-        //         res=root.val;
-        //         // return root.val;
-        //     }
-        //     cnt++;
-        //     return;
-        // }
+    public void recurr(TreeNode root,int k){
         if(root==null){
-            return -1;
+            return;
         }
-        int left=recurr(root.left,k);
-        // System.out.println(root.val);
-              if(cnt==k){
-            res=root.val;
-        }
-        cnt++;
-         
-        int right=recurr(root.right,k);
-        // System.out.println(root.val);
-       if(right!=-1){
+        recurr(root.left,k);
         if(cnt==k){
             res=root.val;
         }
-        cnt++;
-       }
-       
-        // if(left==-1 && right==-1){
-        //     if(cnt==k){
-        //         res=root.val;
-        //     }
-        //     cnt++;
-        // }
-        return -1;
+         cnt++;
+         recurr(root.right,k);
     }
     public int kthSmallest(TreeNode root, int k) {
-        // if(root.left==null && root.right==null){
-        //     return root.val;
-        // }
         recurr(root,k);
         return res;
     }
