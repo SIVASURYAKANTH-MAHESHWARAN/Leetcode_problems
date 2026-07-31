@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0997-find-the-town-judge) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [2266-count-number-of-texts](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2266-count-number-of-texts) |
 | [2418-sort-the-people](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2418-sort-the-people) |
 ## Linked List
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0983-minimum-cost-for-tickets) |
 | [2140-solving-questions-with-brainpower](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2140-solving-questions-with-brainpower) |
+| [2266-count-number-of-texts](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2266-count-number-of-texts) |
 ## Matrix
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [2266-count-number-of-texts](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2266-count-number-of-texts) |
 | [2418-sort-the-people](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2418-sort-the-people) |
 | [3174-clear-digits](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/3174-clear-digits) |
 ## Greedy
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [2266-count-number-of-texts](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2266-count-number-of-texts) |
 ## Database
 |  |
 | ------- |
