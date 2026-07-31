@@ -1,5 +1,5 @@
 class Solution {
-    long mod=1000000007;
+    int mod=1000000007;
     public int countTexts(String pressedKeys) {
         int n=pressedKeys.length();
         int i=0;
@@ -8,15 +8,13 @@ class Solution {
             char ch=pressedKeys.charAt(i);
             int len=0;
             while(i<n && ch==pressedKeys.charAt(i)){
-                len++;
                 i++;
+                len++;
             }
-            long cnt=countWays(len,ch)%mod;
-            // System.out.print(cnt);
+            long cnt=countWays(len,ch);
             ans=(ans*cnt)%mod;
-            // i++;
         }
-        return (int)(ans%mod);
+        return (int)ans%mod;
     }
     public long countWays(int n,char ch){
         long[]dp=new long[n+1];
@@ -29,11 +27,11 @@ class Solution {
             if(i>=3){
                 dp[i]+=dp[i-3];
             }
-            if(i>=4 && (ch=='7' || ch=='9')){
+            if((ch=='7'||ch=='9') && i>=4){
                 dp[i]+=dp[i-4];
             }
-            dp[i]=dp[i]%mod;
-        } 
-        return dp[n];
+            dp[i]%=mod;
+        }
+        return dp[n]%mod;
     }
 }
