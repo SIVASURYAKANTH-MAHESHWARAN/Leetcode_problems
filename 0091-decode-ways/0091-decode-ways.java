@@ -21,7 +21,7 @@ class Solution {
                num.append(sec);
                String num1=String.valueOf(num);
                int val=Integer.valueOf(num1);
-               System.out.println(val);
+            //    System.out.println(val);
                if(val==0||((sec=='0' && fir!='0') && (sec!='0' && fir=='0'||(val>=27)))){
                 dp[i]=0;
                }
