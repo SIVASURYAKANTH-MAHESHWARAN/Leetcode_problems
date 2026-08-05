@@ -29,7 +29,7 @@ class Solution {
         if(pow>0){
             return ans;
         }
-        System.out.print(ans);
+        // System.out.print(ans);
         if(num<0){
             if(pow%2!=0){
                 return (1/ans);
