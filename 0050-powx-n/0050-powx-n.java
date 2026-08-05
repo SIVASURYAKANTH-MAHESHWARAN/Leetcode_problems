@@ -18,11 +18,11 @@ class Solution {
             pow*=-1;
         }
         while(pow>0){
-            if(pow%2==1){
+            if((pow&1)==1){
                 ans*=x;
             }
             x=x*x;
-            pow/=2;
+            pow>>=1;
         }
         // if(pow<0 && x<0){
         //     return ans*-1;
