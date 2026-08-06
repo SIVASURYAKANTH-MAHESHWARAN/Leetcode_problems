@@ -1,40 +1,49 @@
 class Solution {
-    public int largestRectangleArea(int[] arr) {
-        Stack<Integer>stk=new Stack<>();
-        int len=arr.length;
-        int max=Integer.MIN_VALUE;
-        // stk.push(0);
-        for(int i=0;i<len;i++){
-            // int cnt=1;
-    
-            while(!stk.isEmpty() && arr[stk.peek()]>arr[i]){
-                // max=Math.max(max,stk.pop()*cnt);
-                // stk.push(arr[i]*)
-
-                int curr=stk.pop();
-    
-                int width=(stk.isEmpty())?i*arr[curr]:(i-stk.peek()-1)*arr[curr];
-                max=Math.max(max,width);
-            }
-    
-                stk.push(i);
-            
-         
-        } 
-
-        // while(!stk.isEmpty()){
-
+    public int largestRectangleArea(int[] heights) {
+        // int[]heights=new int[arr.length];
+        // int ind=0;
+        // int i1=0;
+        // while(i1<arr.length){
+        //     if(arr[i1]!=0){
+        //         heights[ind]=arr[i1];
+        //         ind++;
+        //     }
+        //     i1++;
         // }
-        // int cnt=1;
-        int ind=len;
-        while(!stk.isEmpty()){
-            // max=Math.max(max,stk.pop()*cnt);
-            // cnt++;
-
-            int curr=stk.pop();
-            int width=(stk.isEmpty())?ind*arr[curr]:(ind-stk.peek()-1)*arr[curr];
-            max=Math.max(max,width);
+        Stack<Integer>stk=new Stack<>();
+        int ind=0;
+        int len=heights.length-1;
+        int ans=Integer.MIN_VALUE;
+        while(ind<=len){
+            while(!stk.isEmpty() && heights[stk.peek()]>=heights[ind]){
+                int i=stk.pop();
+                int height=heights[i];
+                int width=(!stk.isEmpty())?ind-stk.peek()-1:ind;
+                System.out.println(height*width);
+                ans=Math.max(ans,height*width);
+            }
+            
+            stk.push(ind);
+            ind++;
         }
-        return max;
+        len=heights.length;
+        while(!stk.isEmpty()){
+            int height=stk.pop();
+            // if(stk.isEmpty()){
+            //     ans=Math.max(ans,heights[height]*len);
+            // }
+            // else{
+            //     ans=Math.max(ans,(len-height)*heights[height]);
+            // }
+            // int width=(!stk.isEmpty())?len-stk.peek()+1:len;
+            // System.out.println(height);
+            if(stk.isEmpty()){
+                ans=Math.max(ans,len*heights[height]);
+            }
+            else{
+            ans=Math.max(ans,heights[height]*(len-stk.peek()-1));
+            }
+        }
+        return ans;
     }
 }
