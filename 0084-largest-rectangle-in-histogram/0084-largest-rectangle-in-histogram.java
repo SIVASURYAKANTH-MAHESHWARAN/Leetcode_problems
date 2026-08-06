@@ -19,7 +19,7 @@ class Solution {
                 int i=stk.pop();
                 int height=heights[i];
                 int width=(!stk.isEmpty())?ind-stk.peek()-1:ind;
-                System.out.println(height*width);
+                // System.out.println(height*width);
                 ans=Math.max(ans,height*width);
             }
             
