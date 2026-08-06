@@ -22,7 +22,7 @@ class Solution {
         for(int i=1;i<=n;i++){
             fact[i]=(fact[i-1]*i)%1000000007;
         }
-        System.out.println(n+" "+r);
+        // System.out.println(n+" "+r);
         return (fact[n]*mmi((fact[n-r]*fact[r])%1000000007))%1000000007;
     }
     public int countValidSequences(int n, int k) {
