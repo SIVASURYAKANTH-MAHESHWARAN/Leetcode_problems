@@ -8,7 +8,7 @@ class Solution {
             a=(a*a)%1000000007;
             b/=2;
         }
-        return ans%1000000007;
+        return ans;
     }
     public long mmi(long num){
         return pow(num,1000000005);
@@ -23,7 +23,7 @@ class Solution {
             fact[i]=(fact[i-1]*i)%1000000007;
         }
         System.out.println(n+" "+r);
-        return (fact[n]%1000000007*mmi((fact[n-r]%1000000007*fact[r]%1000000007)%1000000007))%1000000007;
+        return (fact[n]*mmi((fact[n-r]*fact[r])%1000000007))%1000000007;
     }
     public int countValidSequences(int n, int k) {
         long total=comb(n-1,k-1);
