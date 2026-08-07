@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0649-dota2-senate) |
 | [0763-partition-labels](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0763-partition-labels) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [2266-count-number-of-texts](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2266-count-number-of-texts) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0763-partition-labels) |
 | [1029-two-city-scheduling](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1029-two-city-scheduling) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
@@ -395,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
+## Counting
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
