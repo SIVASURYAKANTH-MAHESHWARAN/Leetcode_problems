@@ -1,25 +1,22 @@
 class Solution {
-    public int balancedStringSplit(String s) {
+    public int balancedStringSplit(String str) {
         int cnt=0;
-        int n=s.length();
-        int ind=0;
-        n--;
-        int r=0;
-        int l=0;
-        while(ind<=n){
-            if(s.charAt(ind)=='R'){
-                r++;
+        int n=str.length();
+        int[]pre=new int[n+1];
+        Arrays.fill(pre,1);
+        int ptr=0;
+        for(int i=0;i<n;i++){
+            if(str.charAt(i)=='L'){
+                ptr++;
+                pre[i]=ptr;
             }
-            if(s.charAt(ind)=='L'){
-                l++;
+            else{
+                ptr--;
+                pre[i]=ptr;
             }
-            if(r==l && r!=0){
+            if(ptr==0){
                 cnt++;
-                r=0;
-                l=0;
             }
-            ind++;
-
         }
         return cnt;
     }
