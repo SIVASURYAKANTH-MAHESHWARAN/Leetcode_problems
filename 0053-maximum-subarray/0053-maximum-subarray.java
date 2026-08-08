@@ -12,7 +12,7 @@ class Solution {
                 sum=0;
                 ans=Math.max(ans,nums[i]);
             }
-            System.out.println(ans+" "+i);
+            // System.out.println(ans+" "+i);
         }
         return ans;
     }
