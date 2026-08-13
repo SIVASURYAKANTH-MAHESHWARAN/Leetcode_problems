@@ -1,49 +1,28 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
-        // int[]heights=new int[arr.length];
-        // int ind=0;
-        // int i1=0;
-        // while(i1<arr.length){
-        //     if(arr[i1]!=0){
-        //         heights[ind]=arr[i1];
-        //         ind++;
-        //     }
-        //     i1++;
-        // }
-        Stack<Integer>stk=new Stack<>();
-        int ind=0;
-        int len=heights.length-1;
-        int ans=Integer.MIN_VALUE;
-        while(ind<=len){
-            while(!stk.isEmpty() && heights[stk.peek()]>=heights[ind]){
-                int i=stk.pop();
-                int height=heights[i];
-                int width=(!stk.isEmpty())?ind-stk.peek()-1:ind;
-                // System.out.println(height*width);
-                ans=Math.max(ans,height*width);
-            }
-            
-            stk.push(ind);
-            ind++;
+        if(heights.length==0){
+            return 0;
         }
-        len=heights.length;
+        Stack<Integer>stk=new Stack<>();
+        // que.add(heights[0]);
+        int ind=0;
+        int len=heights.length;
+        int res=0;
+        while(ind<len){
+        while(!stk.isEmpty() && heights[stk.peek()]>heights[ind]){
+              int height=stk.pop();
+              int width=(stk.isEmpty())?ind:ind-stk.peek()-1;
+              res=Math.max(res,heights[height]*width);
+            //   System.out.println(res);
+        }
+        stk.push(ind);
+        ind++;
+        }
         while(!stk.isEmpty()){
             int height=stk.pop();
-            // if(stk.isEmpty()){
-            //     ans=Math.max(ans,heights[height]*len);
-            // }
-            // else{
-            //     ans=Math.max(ans,(len-height)*heights[height]);
-            // }
-            // int width=(!stk.isEmpty())?len-stk.peek()+1:len;
-            // System.out.println(height);
-            if(stk.isEmpty()){
-                ans=Math.max(ans,len*heights[height]);
-            }
-            else{
-            ans=Math.max(ans,heights[height]*(len-stk.peek()-1));
-            }
+            int width=(stk.isEmpty())?ind:len-stk.peek()-1;
+            res=Math.max(res,heights[height]*width);
         }
-        return ans;
+        return res;
     }
 }
