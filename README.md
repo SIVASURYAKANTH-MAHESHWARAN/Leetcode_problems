@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1029-two-city-scheduling](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1029-two-city-scheduling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-matrix-diagonal-sum](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1572-matrix-diagonal-sum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0983-minimum-cost-for-tickets) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2140-solving-questions-with-brainpower](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2140-solving-questions-with-brainpower) |
 | [2266-count-number-of-texts](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2266-count-number-of-texts) |
 ## Matrix
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0994-rotting-oranges) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1572-matrix-diagonal-sum) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Queue
