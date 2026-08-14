@@ -22,30 +22,46 @@ class Solution {
         int ans = 0;
 
         // Treat every row as the bottom row
-        for (int i = 0; i < r; i++) {
+        // for (int i = 0; i < r; i++) {
 
-            for (int j = 0; j < c; j++) {
+        //     for (int j = 0; j < c; j++) {
 
-                if (matrix[i][j] == '0')
+        //         if (matrix[i][j] == '0')
+        //             continue;
+
+        //         int minWidth = Integer.MAX_VALUE;
+
+        //         // Move upward
+        //         for (int k = i; k >= 0; k--) {
+
+        //             if (matrix[k][j] == '0')
+        //                 break;
+
+        //             minWidth = Math.min(minWidth, dp[k][j]);
+
+        //             int height = i - k + 1;
+
+        //             ans = Math.max(ans, minWidth * height);
+        //         }
+        //     }
+        // }
+        for(int i=c-1;i>=0;i--){
+            for(int j=r-1;j>=0;j--){
+                if(matrix[j][i]=='0'){
                     continue;
-
-                int minWidth = Integer.MAX_VALUE;
-
-                // Move upward
-                for (int k = i; k >= 0; k--) {
-
-                    if (matrix[k][j] == '0')
+                }
+                int h=1;
+                int res=Integer.MAX_VALUE;
+                for(int k=j;k>=0;k--){
+                    if(dp[k][i]==0){
                         break;
-
-                    minWidth = Math.min(minWidth, dp[k][j]);
-
-                    int height = i - k + 1;
-
-                    ans = Math.max(ans, minWidth * height);
+                    }
+                    res=Math.min(res,dp[k][i]);
+                    ans=Math.max(ans,res*h);
+                    h++;
                 }
             }
         }
-
         return ans;
     }
 }
