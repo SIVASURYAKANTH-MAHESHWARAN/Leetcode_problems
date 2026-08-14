@@ -1,48 +1,51 @@
 class Solution {
-    public int func(int[]arr){
-        int len=arr.length;
-        Stack<Integer>stk=new Stack<>();
-        int max=0;
-        for(int i=0;i<=len;i++){
-            int val=(i==len)?-1:arr[i];
-            while(!stk.isEmpty() && arr[stk.peek()]>val){
-                int ind=stk.pop();
-                int height=arr[ind];
-                int width=stk.isEmpty()?i:i-stk.peek()-1;
-                max=Math.max(max,height*width);
-                
-            }
-            stk.push(i);
-            
-        }
-        return max;
-    }
-    public int maximalRectangle(char[][] mat) {
-        int row=mat.length;
-        int col=mat[0].length;
-        int[][]arr=new int[row][col];
-        for(int i=0;i<row;i++){
-            for(int j=0;j<col;j++){
-                int curr=mat[i][j]-'0';
-                if(i==0){
-                    arr[i][j]=curr;
-                }
-                else{
-                    if(curr==0){
-                        arr[i][j]=0;
-                    }
-                    else{
-                    arr[i][j]=curr+arr[i-1][j];
-                    }
+    public int maximalRectangle(char[][] matrix) {
+
+        int r = matrix.length;
+        int c = matrix[0].length;
+
+        int[][] dp = new int[r][c];
+
+        // dp[i][j] = consecutive 1s ending at (i,j) from the left
+        for (int i = 0; i < r; i++) {
+            for (int j = 0; j < c; j++) {
+
+                if (matrix[i][j] == '1') {
+                    if (j == 0)
+                        dp[i][j] = 1;
+                    else
+                        dp[i][j] = dp[i][j - 1] + 1;
                 }
             }
         }
-        int max=0;
-        for(int i=0;i<row;i++){
-            int res=func(arr[i]);
-            
-            max=Math.max(max,res);
+
+        int ans = 0;
+
+        // Treat every row as the bottom row
+        for (int i = 0; i < r; i++) {
+
+            for (int j = 0; j < c; j++) {
+
+                if (matrix[i][j] == '0')
+                    continue;
+
+                int minWidth = Integer.MAX_VALUE;
+
+                // Move upward
+                for (int k = i; k >= 0; k--) {
+
+                    if (matrix[k][j] == '0')
+                        break;
+
+                    minWidth = Math.min(minWidth, dp[k][j]);
+
+                    int height = i - k + 1;
+
+                    ans = Math.max(ans, minWidth * height);
+                }
+            }
         }
-        return max;
+
+        return ans;
     }
 }
