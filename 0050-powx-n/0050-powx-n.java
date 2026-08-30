@@ -1,42 +1,36 @@
 class Solution {
-    public double myPow(double x, int n) {
-        long pow=n;
-        double ans=1;
-        // if(x<0){
-        //     if(x==Integer.MIN_VALUE){
-        //         x=I
-        //     }
-        // }
-        if(pow<0){
-            // if(n==Integer.MIN_VALUE){
-            //     n=Integer.MAX_VALUE;
-            // }
-            // else{
-            //     n*=-1;
-            // }
-            x=1/x;
-            pow*=-1;
-        }
-        while(pow>0){
-            if((pow&1)==1){
-                ans*=x;
+    public double pow(double x,long n){
+        n=Math.abs(n);
+        double ans=x;
+        double num=1;
+        while(n!=1){
+            num=(n%2!=0)?ans*num:num;
+            ans*=ans;
+            if(n%2!=0){
+                --n;
             }
-            x=x*x;
-            pow>>=1;
+            n/=2;
+                                     
         }
-        // if(pow<0 && x<0){
-        //     return ans*-1;
+        return ans*num;
+    }
+    public double myPow(double x, int n) {
+        // if(n<0){
+        //     return pow(x,n*-1);
         // }
-        // if(pow>0){
-        //     return ans;
-        // }
-        // System.out.print(ans);
-        // if(num<0){
-        //     if(pow%2!=0){
-        //         return (1/ans);
-        //     }
-        //     return 1/(ans*-1);
-        // }
-        return ans;
+        // double ans=pow(x,n);
+        if(n==0){
+            return 1;
+        }
+        int sign=1;
+        if(x<0){
+            if(n%2==0){
+                sign=1;
+            }
+            else{
+                sign=-1;
+            }
+        }
+        return (n<0)?1/pow(Math.abs(x),(n))*sign:pow(Math.abs(x),Math.abs(n))*sign;
     }
 }
