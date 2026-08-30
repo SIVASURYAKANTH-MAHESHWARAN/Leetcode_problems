@@ -15,7 +15,7 @@ class Solution {
             }
             n/=2;
         }
-        return (int)((nums%mod)*(ans%mod)%mod);
+        return (int)((nums*ans)%mod);
     }
     public long length(long num){
         long l=0;
