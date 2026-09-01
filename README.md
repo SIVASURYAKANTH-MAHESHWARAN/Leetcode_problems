@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1572-matrix-diagonal-sum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2140-solving-questions-with-brainpower](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2140-solving-questions-with-brainpower) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2418-sort-the-people) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0365-water-and-jug-problem](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0365-water-and-jug-problem) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2266-count-number-of-texts](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2266-count-number-of-texts) |
 ## Database
 |  |
@@ -432,4 +434,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
