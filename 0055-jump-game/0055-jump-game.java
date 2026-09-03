@@ -66,9 +66,9 @@ class Solution {
                 // mi=Math.max(mi,i+nums[i]);
             }
             // System.out.print(mi);
-            // if(mi<ind){
-            //     return false;
-            // }
+            if(mi<ind){
+                return false;
+            }
             ind=mind;
         }
         return false;
