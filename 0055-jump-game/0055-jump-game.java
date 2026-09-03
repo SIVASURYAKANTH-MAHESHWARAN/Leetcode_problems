@@ -43,33 +43,48 @@ class Solution {
         // return func(nums,0,memo)==1?true:false;
 
 
-        int ind=0;
+        // int ind=0;
+        // int n=nums.length;
+        // while(ind<n){
+        //     if(nums[ind]>=n-1){
+        //         return true;
+        //     }
+        //     if(ind<n && nums[ind]==0){
+        //         return false;
+        //     }
+        //     int mi=Integer.MIN_VALUE;
+        //     int mind=ind;
+        //     for(int i=ind+1;i<=ind+nums[ind];i++){
+        //         if(i+nums[i]>=n-1){
+        //             return true;
+        //         }
+        //         // System.out.println("hi");
+        //         if(mi<i+nums[i]){
+        //             mind=i;
+        //             mi=i+nums[i];
+        //         }
+        //         mi=Math.max(mi,i+nums[i]);
+        //     }
+        //     // System.out.print(mi);
+        //     if(mi<ind){
+        //         return false;
+        //     }
+        //     ind=mind;
+        // }
+        // return false;
+
+
+
+        int mr=0;
         int n=nums.length;
-        while(ind<n){
-            if(nums[ind]>=n-1){
+        for(int i=0;i<n;i++){
+            if(i>mr){
+                return false;
+            }
+            mr=Math.max(mr,i+nums[i]);
+            if(mr>=n-1){
                 return true;
             }
-            if(ind<n && nums[ind]==0){
-                return false;
-            }
-            int mi=Integer.MIN_VALUE;
-            int mind=ind;
-            for(int i=ind+1;i<=ind+nums[ind];i++){
-                if(i+nums[i]>=n-1){
-                    return true;
-                }
-                // System.out.println("hi");
-                if(mi<i+nums[i]){
-                    mind=i;
-                    mi=i+nums[i];
-                }
-                // mi=Math.max(mi,i+nums[i]);
-            }
-            // System.out.print(mi);
-            if(mi<ind){
-                return false;
-            }
-            ind=mind;
         }
         return false;
     }
