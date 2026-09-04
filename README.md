@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0376-wiggle-subsequence](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0376-wiggle-subsequence) |
 | [0406-queue-reconstruction-by-height](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0406-queue-reconstruction-by-height) |
+| [0435-non-overlapping-intervals](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0455-assign-cookies) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0337-house-robber-iii) |
 | [0376-wiggle-subsequence](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0376-wiggle-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0746-min-cost-climbing-stairs) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0316-remove-duplicate-letters) |
 | [0376-wiggle-subsequence](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0376-wiggle-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0649-dota2-senate](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0649-dota2-senate) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0406-queue-reconstruction-by-height) |
+| [0435-non-overlapping-intervals](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0853-car-fleet](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0853-car-fleet) |
