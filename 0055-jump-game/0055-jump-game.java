@@ -82,10 +82,10 @@ class Solution {
                 return false;
             }
             mr=Math.max(mr,i+nums[i]);
-            if(mr>=n-1){
-                return true;
-            }
+            // if(mr>=n-1){
+            //     return true;
+            // }
         }
-        return false;
+        return true;
     }
 }
