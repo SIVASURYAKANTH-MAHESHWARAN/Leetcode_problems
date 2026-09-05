@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0525-contiguous-array) |
+| [0621-task-scheduler](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0763-partition-labels) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0997-find-the-town-judge) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0542-01-matrix) |
+| [0621-task-scheduler](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0746-min-cost-climbing-stairs) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0649-dota2-senate) |
 | [0763-partition-labels](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0881-boats-to-save-people) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0621-task-scheduler) |
 | [1094-car-pooling](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1094-car-pooling) |
 ## Monotonic Queue
 |  |
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [1029-two-city-scheduling](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1029-two-city-scheduling) |
@@ -445,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0621-task-scheduler) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Longest Increasing Subsequence
 |  |
