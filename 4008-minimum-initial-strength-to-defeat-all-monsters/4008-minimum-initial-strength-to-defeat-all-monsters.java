@@ -6,7 +6,7 @@ class Solution {
             long tem=power+bonus;
             // System.out.println(tem);
             if(tem<mon[i]){
-                System.out.println(tem+" "+mon[i]+" "+bonus+" "+power);
+                // System.out.println(tem+" "+mon[i]+" "+bonus+" "+power);
                 return false;
             }
             power-=mon[i];
@@ -48,7 +48,7 @@ class Solution {
                 h=mid-1;
             }
             else{
-                System.out.println(mid);
+                // System.out.println(mid);
                 l=mid+1;
             }
         }
