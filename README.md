@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2418-sort-the-people) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 ## Stack
 |  |
 | ------- |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 ## Binary Search
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0456-132-pattern](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0456-132-pattern) |
 | [1004-max-consecutive-ones-iii](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
+| [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 ## Ordered Set
 |  |
 | ------- |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 ## Math
 |  |
 | ------- |
