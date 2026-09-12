@@ -14,7 +14,7 @@ class Solution {
             }
             else{
                 set.add(s.charAt(i));
-                System.out.println(i+" "+low+" "+1);
+                // System.out.println(i+" "+low+" "+1);
                 max=Math.max(max,i-low+1);
             }
         }
