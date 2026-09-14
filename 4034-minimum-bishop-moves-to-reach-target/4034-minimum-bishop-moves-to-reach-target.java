@@ -4,12 +4,12 @@ class Solution {
         int c1=source[1];
         int r2=target[0];
         int c2=target[1];
-        if(((r1+c1)%2)!=((r2+c2)%2)){
-            return -1;
-        }
         if(Math.abs(r1-r2)==Math.abs(c1-c2)){
             return 1;
         }
-        return 2;
+        if((r1+c1)%2==(r2+c2)%2){
+            return 2;
+        }
+        return -1;
     }
 }
