@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select dept as Department,name as Employee,salary as Salary from (select *,dense_rank() over(partition by t.dept order by t.salary desc)as dr from (select name,salary,dept from Employee as e1 join (select id as id1,name as dept from Department) as d1 on e1.departmentId=id1 order by dept) as t)as t1 where t1.dr in (1,2,3);
