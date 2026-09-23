@@ -26,7 +26,7 @@ class Solution {
         for(int i=0;i<n;i++){
             int[]arr=map.get(nums[i]);
             if(arr[0]>=3 && arr[3]==1){
-                System.out.println(nums[i]);
+                // System.out.println(nums[i]);
                 cnt++;
             }
             arr[3]=0;
