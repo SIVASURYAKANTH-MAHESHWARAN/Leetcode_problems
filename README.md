@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Stack
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1094-car-pooling) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3174-clear-digits](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/3174-clear-digits) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1572-matrix-diagonal-sum) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Queue
 |  |
 | ------- |
