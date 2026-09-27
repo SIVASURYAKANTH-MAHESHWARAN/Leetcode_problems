@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4052-cyclically-shift-rows-and-columns) |
+| [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Stack
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0456-132-pattern) |
 | [1004-max-consecutive-ones-iii](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
+| [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Ordered Set
 |  |
 | ------- |
