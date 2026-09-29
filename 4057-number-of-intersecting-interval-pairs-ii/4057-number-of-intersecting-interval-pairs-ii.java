@@ -3,7 +3,7 @@ class Solution {
         Arrays.sort(intervals,(a,b)->a[0]-b[0]);
         int n=intervals.length;
         long cnt=0;
-        for(int i=0;i<n;i++){
+        for(int i=0;i<n-1;i++){
             int end=intervals[i][1];
             int left=i+1;
             int right=n;
