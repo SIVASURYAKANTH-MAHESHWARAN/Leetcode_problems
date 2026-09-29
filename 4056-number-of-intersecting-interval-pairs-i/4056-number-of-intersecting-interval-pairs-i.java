@@ -16,7 +16,7 @@ class Solution {
                     left=mid+1;
                 }
             }
-            System.out.println(left+" "+i);
+            // System.out.println(left+" "+i);
             cnt+=left-i-1;
         }
         return cnt;
