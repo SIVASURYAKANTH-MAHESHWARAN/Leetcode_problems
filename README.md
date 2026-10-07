@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4052-cyclically-shift-rows-and-columns) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
+| [4062-transform-array-using-pair-operations](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4062-transform-array-using-pair-operations) |
 ## Stack
 |  |
 | ------- |
@@ -503,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1029-two-city-scheduling) |
+## Brainteaser
+|  |
+| ------- |
+| [4062-transform-array-using-pair-operations](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4062-transform-array-using-pair-operations) |
 <!---LeetCode Topics End-->
