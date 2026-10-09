@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2418-sort-the-people) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Linked List
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4052-cyclically-shift-rows-and-columns](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4052-cyclically-shift-rows-and-columns) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 | [4062-transform-array-using-pair-operations](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4062-transform-array-using-pair-operations) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Stack
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3174-clear-digits](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/3174-clear-digits) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4052-cyclically-shift-rows-and-columns) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0456-132-pattern) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -292,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0621-task-scheduler) |
 | [1094-car-pooling](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1094-car-pooling) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -311,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1094-car-pooling) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2418-sort-the-people) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Tree
 |  |
 | ------- |
@@ -477,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0621-task-scheduler) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1221-split-a-string-in-balanced-strings) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
