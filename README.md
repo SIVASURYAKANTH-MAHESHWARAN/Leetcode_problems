@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Linked List
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 | [4062-transform-array-using-pair-operations](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4062-transform-array-using-pair-operations) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Stack
 |  |
 | ------- |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0621-task-scheduler) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
