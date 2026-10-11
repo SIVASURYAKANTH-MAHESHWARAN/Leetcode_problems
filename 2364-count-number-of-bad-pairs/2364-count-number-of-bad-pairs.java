@@ -13,7 +13,7 @@ class Solution {
             goodpairs+=((long)val*(long)(val+1))/2;
             }
         }
-        System.out.println(n);
+        // System.out.println(n);
         n--;
         return (long)((long)n*(long)(n+1))/2-goodpairs;
     }
