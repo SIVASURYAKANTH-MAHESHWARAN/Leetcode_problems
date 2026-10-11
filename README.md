@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0997-find-the-town-judge) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1512-number-of-good-pairs](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1512-number-of-good-pairs) |
 | [2266-count-number-of-texts](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2266-count-number-of-texts) |
 | [2418-sort-the-people](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2418-sort-the-people) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1512-number-of-good-pairs](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1572-matrix-diagonal-sum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0365-water-and-jug-problem](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0365-water-and-jug-problem) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1512-number-of-good-pairs](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1512-number-of-good-pairs) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2266-count-number-of-texts](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2266-count-number-of-texts) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0621-task-scheduler) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1512-number-of-good-pairs](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1512-number-of-good-pairs) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Longest Increasing Subsequence
