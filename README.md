@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2140-solving-questions-with-brainpower](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2140-solving-questions-with-brainpower) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2364-count-number-of-bad-pairs](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2364-count-number-of-bad-pairs) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [3174-clear-digits](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1029-two-city-scheduling) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 ## Binary Search
