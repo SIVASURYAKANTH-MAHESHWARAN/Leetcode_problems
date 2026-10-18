@@ -17,7 +17,7 @@ class Solution {
                     // System.out.println(j+" "+s);
                     ans=Math.max(ans,j-i+1);
                 }
-                System.out.println(s);
+                // System.out.println(s);
                  j++;
             }
             i=j;
