@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0997-find-the-town-judge) |
+| [1002-find-common-characters](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1002-find-common-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1512-number-of-good-pairs](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1512-number-of-good-pairs) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0997-find-the-town-judge) |
+| [1002-find-common-characters](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1029-two-city-scheduling](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1029-two-city-scheduling) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0649-dota2-senate](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0649-dota2-senate) |
 | [0763-partition-labels](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0763-partition-labels) |
+| [1002-find-common-characters](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1002-find-common-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
