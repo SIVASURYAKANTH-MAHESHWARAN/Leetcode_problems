@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0012-integer-to-roman) |
+| [0128-longest-consecutive-sequence](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Topological Sort
