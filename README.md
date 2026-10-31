@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0739-daily-temperatures) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1094-car-pooling) |
