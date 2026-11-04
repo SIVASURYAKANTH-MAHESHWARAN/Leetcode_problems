@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2140-solving-questions-with-brainpower](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2140-solving-questions-with-brainpower) |
 | [2266-count-number-of-texts](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2266-count-number-of-texts) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 ## Matrix
 |  |
 | ------- |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2266-count-number-of-texts](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2266-count-number-of-texts) |
 | [2418-sort-the-people](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2418-sort-the-people) |
 | [3174-clear-digits](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/3174-clear-digits) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 ## Greedy
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 ## Binary Search
 |  |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [3026-maximum-good-subarray-sum](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/3026-maximum-good-subarray-sum) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 ## Math
 |  |
