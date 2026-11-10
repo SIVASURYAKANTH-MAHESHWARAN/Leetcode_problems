@@ -22,7 +22,7 @@ class Solution {
                 sum=Math.abs(nums[j]-nums[i]);
             }
             if(sum==k){
-                System.out.println(nums[i]+" "+i+" "+j);
+                // System.out.println(nums[i]+" "+i+" "+j);
                 ans+=map.get(nums[i]);
             }
             j++;
