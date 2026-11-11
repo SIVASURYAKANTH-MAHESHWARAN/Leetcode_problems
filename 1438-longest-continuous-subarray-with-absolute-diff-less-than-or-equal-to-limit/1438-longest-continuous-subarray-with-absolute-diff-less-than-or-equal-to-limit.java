@@ -9,10 +9,8 @@ class Solution {
             map.put(nums[j],map.getOrDefault(nums[j],0)+1);
             long diff=Math.abs(map.firstKey()-map.lastKey());
             while(diff>k){
-                diff=Math.abs(map.firstKey()-map.lastKey());
-                if(diff<=k){
-                    break;
-                }
+                
+             
                 int cnt=map.get(nums[i]);
                 if(cnt==1){
                     map.remove(nums[i]);
@@ -21,12 +19,13 @@ class Solution {
                     map.put(nums[i],cnt-1);
                 }
                 i++;
+                diff=Math.abs(map.firstKey()-map.lastKey());
                 // System.out.println("hi"+" "+diff);
             }
-            if(diff<=k){
+           
             // System.out.println(map.firstKey()+" "+map.lastKey()+" "+diff);
             ans=Math.max(ans,j-i+1);
-            }
+            
             // System.out.println(i+" "+j);
             j++;
         }
