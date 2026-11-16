@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3026-maximum-good-subarray-sum](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/3026-maximum-good-subarray-sum) |
+| [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 ## Binary Search
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/2418-sort-the-people) |
+| [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/SIVASURYAKANTH-MAHESHWARAN/Leetcode_problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Tree
 |  |
